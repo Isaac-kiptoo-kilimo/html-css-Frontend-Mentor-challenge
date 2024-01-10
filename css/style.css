@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(250, 250, 250);
+  height: 100vh;
+  text-align: center;
+  overflow: hidden;
+  font-family: 'Geologica', sans-serif;
+}
+
+.home-card {
+  background-color: hsl(212, 45%, 89%);
+  height: 80%;
+  margin: 50px;
+  position: relative;
+  padding: 10px;
+}
